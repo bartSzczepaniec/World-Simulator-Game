@@ -1,0 +1,21 @@
+﻿  Antelope.cpp
+  SosnowskyHogweed.cpp
+  Human.cpp
+  Guarana.cpp
+  Fox.cpp
+  main.cpp
+  Sonchus.cpp
+  Organism.cpp
+  Sheep.cpp
+  Plant.cpp
+  World.cpp
+D:\togit\World-Simulator-Game\World.cpp(26,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\togit\World-Simulator-Game\World.cpp(201,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\togit\World-Simulator-Game\World.cpp(217,18): warning C4101: "pomocniczy": lokalna zmienna, do której nie istnieje odwołanie
+  Grass.cpp
+  Nightshade.cpp
+  Wolf.cpp
+  Turtle.cpp
+  Animal.cpp
+  Generowanie kodu...
+  projekt1PO.vcxproj -> D:\togit\World-Simulator-Game\x64\Debug\projekt1PO.exe
